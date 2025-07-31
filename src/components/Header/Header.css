@@ -1,0 +1,32 @@
+.navbar.custom-navbar {
+    background-color: #333;
+    margin-bottom: 50px;
+}
+
+.navbar-brand.custom-navbar-brand {
+    font-size: 0.8rem;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.nav-link.custom-nav-link {
+    color: white;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+    padding: 10px 20px;
+}
+
+.nav-link.custom-nav-link:hover {
+    border: 1px solid white;
+    color: white;
+}
+
+.active {
+    font-weight: 700 !important;
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+.navbar-toggler.custom-navbar-toggler {
+    color: white;
+}
