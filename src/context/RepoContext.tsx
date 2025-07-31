@@ -3,7 +3,7 @@ import { type Repo } from "../types/types";
 import { fetchReposForUsers } from "../services/fetchService";
 import { filterRepos } from "../services/filterService";
 
-const TEAM = ["BauveR", "DiegoAPaez", "Jperaire", "pedroinfante92", ];
+const TEAM = ["BauveR", "DiegoAPaez", "Jperaire", "pedroinfante92",  "laisrod"];
 
 interface RepoContextProps {
   repos: Repo[];
